@@ -1,9 +1,10 @@
 // IMPORTS
 @import 'base/normalize';
-@import
- 'utils/mixins',
- 'utils/variables';
+@import 'utils/mixins';
+@import 'utils/variables';
+
 @import 'layout/header';
+
 @import 'pages/home';
 
 
